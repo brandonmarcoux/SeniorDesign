@@ -1,0 +1,3 @@
+<group> loop_mode=one_shot
+
+<region> sample=..\WAV\02 Minimal Kicks\min_kick_20_F#.wav lokey=c0 hikey=c2 pitch_keycenter=f#1 
